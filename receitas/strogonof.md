@@ -1,6 +1,6 @@
 # Strogonof delícia de frango :chicken:
 
-## Ingredientes
+## Ingredientes e mais
 
 - Frango
 
